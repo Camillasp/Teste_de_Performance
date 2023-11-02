@@ -1,0 +1,138 @@
+2023-10-25 09:40:43,954 INFO o.a.j.u.JMeterUtils: Setting Locale to pt_BR
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Version 5.6.2
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: java.version=20.0.2
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: os.name=Windows 11
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: os.arch=amd64
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: os.version=10.0
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: file.encoding=UTF-8
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: java.awt.headless=null
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Max memory     =2076180480
+2023-10-25 09:40:43,981 INFO o.a.j.JMeter: Available Processors =8
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: Default Locale=português (Brasil)
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: JMeter  Locale=português (Brasil)
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: JMeterHome=C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: user.dir  =C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: PWD       =C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-10-25 09:40:43,997 INFO o.a.j.JMeter: IP: 192.168.1.126 Name: camilla_pacheco FullName: camilla_pacheco
+2023-10-25 09:40:44,012 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-10-25 09:40:44,232 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2023-10-25 09:41:32,210 INFO o.a.j.s.FileServer: Default base='C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin'
+2023-10-25 09:41:32,225 INFO o.a.j.g.a.Load: Loading file: C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\backups\View Results Tree.jmx
+2023-10-25 09:41:32,225 INFO o.a.j.s.FileServer: Set new base='C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\backups'
+2023-10-25 09:41:32,508 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-10-25 09:41:32,539 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-10-25 09:41:32,554 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-10-25 09:41:32,554 INFO o.a.j.s.SaveService: Loading file: C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\backups\View Results Tree.jmx
+2023-10-25 09:41:32,578 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-10-25 09:41:32,590 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-10-25 09:41:32,951 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2023-10-25 09:41:32,951 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-10-25 09:41:33,414 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-10-25 09:41:33,414 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-10-25 09:41:33,414 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-10-25 09:41:33,414 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-10-25 09:41:33,806 INFO o.a.j.s.FileServer: Set new base='C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\backups'
+2023-10-25 09:41:46,299 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-10-25 09:41:46,299 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-10-25 09:41:46,525 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2023-10-25 09:41:46,525 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2023-10-25 09:41:46,530 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2023-10-25 09:41:46,538 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2023-10-25 09:42:06,657 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2023-10-25 09:42:57,791 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2023-10-25 09:42:57,791 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2023-10-25 09:42:57,793 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2023-10-25 09:42:57,794 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2023-10-25 09:42:57,839 INFO o.a.j.p.h.p.Proxy: Proxy will remove the headers: If-Modified-Since,If-None-Match,Host
+2023-10-25 09:42:58,071 INFO o.a.j.p.h.p.Proxy: [53530]  KeyStore for SSL loaded OK and put host 'api.lms.ebaconline.com.br' in map with key (api.lms.ebaconline.com.br)
+2023-10-25 09:42:58,259 WARN o.a.j.p.h.p.Proxy: [53530]  Problem with SSL certificate for url  for 'api.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:42:58,259 WARN o.a.j.p.h.p.Proxy: [53531]  Problem with SSL certificate for url  for 'api.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:42:58,259 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-10-25 09:42:58,417 INFO o.a.j.p.h.p.Proxy: [53533]  KeyStore for SSL loaded OK and put host 'new.lms.ebaconline.com.br' in map with key (new.lms.ebaconline.com.br)
+2023-10-25 09:42:58,458 WARN o.a.j.p.h.p.Proxy: [53533]  Problem with SSL certificate for url  for 'new.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:42:58,478 WARN o.a.j.p.h.p.Proxy: [53534]  Problem with SSL certificate for url  for 'api.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:13,064 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = camilla_pacheco
+2023-10-25 09:43:13,072 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-10-25 09:43:13,088 INFO o.a.j.p.h.p.Proxy: [53538]  KeyStore for SSL loaded OK and put host 'maxcdn.bootstrapcdn.com' in map with key (maxcdn.bootstrapcdn.com)
+2023-10-25 09:43:13,114 WARN o.a.j.p.h.p.Proxy: [53538]  Problem with SSL certificate for url  for 'maxcdn.bootstrapcdn.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:13,177 INFO o.a.j.p.h.p.Proxy: [53540]  KeyStore for SSL loaded OK and put host 'fonts.googleapis.com' in map with key (fonts.googleapis.com)
+2023-10-25 09:43:13,194 WARN o.a.j.p.h.p.Proxy: [53540]  Problem with SSL certificate for url  for 'fonts.googleapis.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:13,257 INFO o.a.j.p.h.p.Proxy: [53541]  KeyStore for SSL loaded OK and put host 'fonts.gstatic.com' in map with key (fonts.gstatic.com)
+2023-10-25 09:43:13,278 WARN o.a.j.p.h.p.Proxy: [53541]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:13,342 INFO o.a.j.p.h.p.Proxy: [53539]  KeyStore for SSL loaded OK and put host 'stats.wp.com' in map with key (stats.wp.com)
+2023-10-25 09:43:13,358 WARN o.a.j.p.h.p.Proxy: [53539]  Problem with SSL certificate for url  for 'stats.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:13,923 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  Usuário/minha-conta/-1 into controller Login  Usuário
+2023-10-25 09:43:14,654 WARN o.a.j.p.h.p.Proxy: [53544]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:43:14,670 WARN o.a.j.p.h.p.Proxy: [53545]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:14,754 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  Usuário/minha-conta/-2 into controller Login  Usuário
+2023-10-25 09:43:14,799 INFO o.a.j.p.h.p.Proxy: [53546]  KeyStore for SSL loaded OK and put host 'widgets.wp.com' in map with key (widgets.wp.com)
+2023-10-25 09:43:14,821 WARN o.a.j.p.h.p.Proxy: [53546]  Problem with SSL certificate for url  for 'widgets.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:14,832 WARN o.a.j.p.h.p.Proxy: [53547]  Problem with SSL certificate for url  for 'widgets.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:15,102 INFO o.a.j.p.h.p.Proxy: [53548]  KeyStore for SSL loaded OK and put host 'edge.microsoft.com' in map with key (edge.microsoft.com)
+2023-10-25 09:43:15,133 WARN o.a.j.p.h.p.Proxy: [53548]  Problem with SSL certificate for url  for 'edge.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,107 WARN o.a.j.p.h.p.Proxy: [53551]  Problem with SSL certificate for url  for 'maxcdn.bootstrapcdn.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,108 WARN o.a.j.p.h.p.Proxy: [53552]  Problem with SSL certificate for url  for 'stats.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,172 INFO o.a.j.p.h.p.Proxy: [53553]  KeyStore for SSL loaded OK and put host 'nav-edge.smartscreen.microsoft.com' in map with key (nav-edge.smartscreen.microsoft.com)
+2023-10-25 09:43:17,177 WARN o.a.j.p.h.p.Proxy: [53554]  Problem with SSL certificate for url  for 'fonts.googleapis.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,183 WARN o.a.j.p.h.p.Proxy: [53555]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,188 WARN o.a.j.p.h.p.Proxy: [53553]  Problem with SSL certificate for url  for 'nav-edge.smartscreen.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:17,619 WARN o.a.j.p.h.p.Proxy: [53557]  Problem with SSL certificate for url  for 'nav-edge.smartscreen.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:43:17,661 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  Usuário/minha-conta/customer-logout/-3 into controller Login  Usuário
+2023-10-25 09:43:17,865 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  Usuário/wp-login.php-4 into controller Login  Usuário
+2023-10-25 09:43:18,371 WARN o.a.j.p.h.p.Proxy: [53561]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:18,494 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  Usuário/minha-conta/-5 into controller Login  Usuário
+2023-10-25 09:43:18,501 INFO o.a.j.p.h.p.ProxyControl: [53563]  Creating entry ntp.msn.com in C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-10-25 09:43:20,228 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2023-10-25 09:43:21,880 INFO o.a.j.p.h.p.ProxyControl: [53565]  Creating entry storeedgefd.dsx.mp.microsoft.com in C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-10-25 09:43:21,961 INFO o.a.j.p.h.p.Proxy: [53563]  KeyStore for SSL loaded OK and put host 'ntp.msn.com' in map with key (ntp.msn.com)
+2023-10-25 09:43:21,977 WARN o.a.j.p.h.p.Proxy: [53563]  Problem with SSL certificate for url  for 'ntp.msn.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:43:26,139 INFO o.a.j.p.h.p.Proxy: [53565]  KeyStore for SSL loaded OK and put host 'storeedgefd.dsx.mp.microsoft.com' in map with key (storeedgefd.dsx.mp.microsoft.com)
+2023-10-25 09:43:26,235 WARN o.a.j.p.h.p.Proxy: [53565]  Empty response to http over SSL. Probably waiting for user to authorize the certificate for storeedgefd.dsx.mp.microsoft.com:443
+2023-10-25 09:44:53,511 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :root_ca:
+2023-10-25 09:44:53,511 INFO o.a.j.p.h.p.ProxyControl: Valid alias found for :intermediate_ca:
+2023-10-25 09:44:53,513 INFO o.a.j.p.h.p.Daemon: Creating Daemon Socket on port: 8888
+2023-10-25 09:44:53,514 INFO o.a.j.p.h.p.Daemon: Test Script Recorder up and running!
+2023-10-25 09:44:54,224 WARN o.a.j.p.h.p.Proxy: [52256]  Problem with SSL certificate for url  for 'new.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:44:54,239 WARN o.a.j.p.h.p.Proxy: [52257]  Problem with SSL certificate for url  for 'api.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:44:55,176 INFO o.a.j.p.h.p.Proxy: [52258]  KeyStore for SSL loaded OK and put host 'self.events.data.microsoft.com' in map with key (self.events.data.microsoft.com)
+2023-10-25 09:44:55,209 WARN o.a.j.p.h.p.Proxy: [52258]  Problem with SSL certificate for url  for 'self.events.data.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Remote host terminated the handshake
+2023-10-25 09:45:02,234 WARN o.a.j.p.h.p.Proxy: [52260]  Problem with SSL certificate for url  for 'new.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:02,251 WARN o.a.j.p.h.p.Proxy: [52261]  Problem with SSL certificate for url  for 'api.lms.ebaconline.com.br'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:08,736 WARN o.a.j.p.h.p.Proxy: [52263]  Problem with SSL certificate for url  for 'self.events.data.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Remote host terminated the handshake
+2023-10-25 09:45:10,415 WARN o.a.j.p.h.p.Proxy: [52267]  Problem with SSL certificate for url  for 'stats.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:10,415 WARN o.a.j.p.h.p.Proxy: [52266]  Problem with SSL certificate for url  for 'maxcdn.bootstrapcdn.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:10,418 WARN o.a.j.p.h.p.Proxy: [52269]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:10,418 WARN o.a.j.p.h.p.Proxy: [52268]  Problem with SSL certificate for url  for 'fonts.googleapis.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:11,112 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  E-mail/minha-conta/-7 into controller Login  E-mail
+2023-10-25 09:45:11,625 WARN o.a.j.p.h.p.Proxy: [52272]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:11,634 WARN o.a.j.p.h.p.Proxy: [52273]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:11,707 WARN o.a.j.p.h.p.Proxy: [52274]  Problem with SSL certificate for url  for 'widgets.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:11,723 WARN o.a.j.p.h.p.Proxy: [52275]  Problem with SSL certificate for url  for 'widgets.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:11,734 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  E-mail/minha-conta/-8 into controller Login  E-mail
+2023-10-25 09:45:15,046 INFO o.a.j.p.h.p.ProxyControl: [52277]  Creating entry sadownload.mcafee.com in C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-10-25 09:45:16,603 WARN o.a.j.p.h.p.Proxy: [52282]  Problem with SSL certificate for url  for 'maxcdn.bootstrapcdn.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:16,606 WARN o.a.j.p.h.p.Proxy: [52285]  Problem with SSL certificate for url  for 'fonts.googleapis.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:16,606 WARN o.a.j.p.h.p.Proxy: [52283]  Problem with SSL certificate for url  for 'stats.wp.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:16,606 WARN o.a.j.p.h.p.Proxy: [52284]  Problem with SSL certificate for url  for 'nav-edge.smartscreen.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:16,612 WARN o.a.j.p.h.p.Proxy: [52286]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:16,833 WARN o.a.j.p.h.p.Proxy: [52288]  Problem with SSL certificate for url  for 'nav-edge.smartscreen.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
+2023-10-25 09:45:16,947 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  E-mail/minha-conta/customer-logout/-9 into controller Login  E-mail
+2023-10-25 09:45:17,162 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  E-mail/wp-login.php-10 into controller Login  E-mail
+2023-10-25 09:45:17,538 WARN o.a.j.p.h.p.Proxy: [52292]  Problem with SSL certificate for url  for 'fonts.gstatic.com'? Ensure browser is set to accept the JMeter proxy cert: Uma conexão estabelecida foi anulada pelo software no computador host
+2023-10-25 09:45:17,572 INFO o.a.j.p.h.p.ProxyControl: Add sample Login  E-mail/minha-conta/-11 into controller Login  E-mail
+2023-10-25 09:45:18,678 INFO o.a.j.p.h.p.ProxyControl: [52295]  Creating entry telem-edge.smartscreen.microsoft.com in C:\Users\camil\Downloads\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-10-25 09:45:18,785 INFO o.a.j.p.h.p.Proxy: [52277]  KeyStore for SSL loaded OK and put host 'sadownload.mcafee.com' in map with key (sadownload.mcafee.com)
+2023-10-25 09:45:18,803 WARN o.a.j.p.h.p.Proxy: [52277]  Problem with SSL certificate for url  for 'sadownload.mcafee.com'? Ensure browser is set to accept the JMeter proxy cert: Connection reset
+2023-10-25 09:45:18,819 WARN o.a.j.p.h.p.Proxy: [52296]  Problem with SSL certificate for url  for 'sadownload.mcafee.com'? Ensure browser is set to accept the JMeter proxy cert: Connection reset
+2023-10-25 09:45:20,823 INFO o.a.j.p.h.p.Daemon: HTTP(S) Test Script Recorder stopped
+2023-10-25 09:45:22,213 INFO o.a.j.p.h.p.Proxy: [52295]  KeyStore for SSL loaded OK and put host 'telem-edge.smartscreen.microsoft.com' in map with key (telem-edge.smartscreen.microsoft.com)
+2023-10-25 09:45:22,221 WARN o.a.j.p.h.p.Proxy: [52295]  Problem with SSL certificate for url  for 'telem-edge.smartscreen.microsoft.com'? Ensure browser is set to accept the JMeter proxy cert: Received fatal alert: certificate_unknown
